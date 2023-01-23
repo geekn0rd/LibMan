@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>default_book_cover_2015.jpg</file>
+        <file>alice.jpg</file>
+    </qresource>
+</RCC>

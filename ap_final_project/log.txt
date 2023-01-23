@@ -1,0 +1,10 @@
+Tue Jan 25 2022, 09:17:45 : Application Started.
+Tue Jan 25 2022, 09:18:01 : Someone with username=admin and password=admin is trying to sign in.
+Tue Jan 25 2022, 09:18:01 : An admin with username=admin successfully signed in.
+Tue Jan 25 2022, 09:18:05 : Application Ended.
+Tue Jan 25 2022, 09:18:45 : Application Started.
+Tue Jan 25 2022, 09:19:30 : Application Started.
+Tue Jan 25 2022, 09:19:35 : Someone with username=admin and password=admin is trying to sign in.
+Tue Jan 25 2022, 09:19:35 : An admin with username=admin successfully signed in.
+Tue Jan 25 2022, 09:19:36 : An admin went to users page.
+Tue Jan 25 2022, 09:19:42 : Application Ended.
